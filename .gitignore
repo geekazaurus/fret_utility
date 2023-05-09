@@ -1,0 +1,8 @@
+# Ignore .tif images
+*.tif
+
+# Pycharm env files
+*.idea
+
+# Log files
+*.log
